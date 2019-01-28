@@ -11,6 +11,7 @@ public class lab3 {  void bubbleSort(int arr[])
                 arr[j] = arr[j+1];
                 arr[j+1] = temp;
             }
+    
 }
 
 void printArray(int arr[])
