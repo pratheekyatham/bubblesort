@@ -26,7 +26,7 @@ void printArray(int arr[])
 public static void main(String args[])
 {
     lab3 ob = new lab3();
-    int arr[] = {64, 34, 25, 12, 22, 11, 90};
+    int arr[] = {69, 35, 25, 12, 22, 15, 90};
     ob.bubbleSort(arr);
     System.out.println("Sorted array");
     ob.printArray(arr);
