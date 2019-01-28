@@ -13,7 +13,6 @@ public class lab3 {  void bubbleSort(int arr[])
             }
 }
 
-
 void printArray(int arr[])
 {
     int n = arr.length;
